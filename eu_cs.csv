@@ -1,0 +1,23 @@
+country,language spoken,r/domestic,domestic language rules,domestic rule,r/foreign,foreign language rules,foreign rule,r/most_populous_city_domestic,mpc_rules,mpc_rule
+Austria,Ger,Austria,N,NA,Österreich,NA,NA,vienna,N,NA
+Belgium,"Dut, Fre, Ger",Belgium,N,NA,NA,NA,NA,brussels,N,NA
+Denmark,Dan ,Denmark,Y,"dan, eng, nor, swe ",NA,NA,NA,copenhagen,Y,"dan, eng, nor, swe"
+Estonia,Est,Eesti,Y,"est, eng",NA,NA,NA,NA(talinn inactive),N,NA
+Finland,Fin,Finland,N,NA,Suomi,Y,fin,helsinki,Y,"fin, eng"
+France,Fre,France,N,NA,NA,NA,NA,paris,Y,"fre, eng"
+Gery,Ger,Gery,N,NA,DE,Y,"ger, eng",berlin,N,NA
+Greece,Gre,greece,Y,"gre, eng",NA,NA,NA,athina,N,NA
+Greenland,Kal,Greenland,Y,"kal, dan, eng",NA,NA,NA,NA,N,NA
+Hungary,Hun,Hungary,N,NA,NA,NA,NA,budapest,Y,"hun, eng"
+Iceland,Ice,Iceland,E,no trans request,NA,NA,NA,Reykjavik,N,N
+Italy,Ita,Italy,Y,"ita, eng",Italia,Y,ita,Roma,Y,"ita, eng"
+Netherlands,Dut,thenetherlands,Y,"eng, dut",nederlands,Y,dut,Amsterdam,Y,"dut, eng"
+Norway,Nor,Norway,N,NA,Norge,Y,"nor, dan, and swe",Oslo,N,NA
+Poland,Pol,Poland,N,NA,Polska,Y,"pol, eng",Warsaw,N,NA
+Portugal,Por ,Portugal,N,NA,NA,NA,NA,Lisbon,N,NA
+Russia,Rus,Russia,Y,"eng, rus ",RU,Y,rus,SPb,N,NA
+Spain,Spa,Spain,N,NA,ES,N,NA,Madrid,N,NA
+Sweden,Swe,Sweden,Y,"eng, swe, dan, nor, ice",NA,NA,NA,Stockholm,N,NA
+Switzerland,"Fre, Ger, Ita, Roh",Switzerland,Y,"eng, ger, fre, ita, roh",NA,NA,NA,Geneva,N,NA
+Turkey,Tur ,Turkey,Y,"tur, eng",NA,NA,NA,Istanbul,N,NA
+Ukraine,Ukr,Ukraine,N,NA,ukraina,Y,"ukr, rus, eng",Kiev,N,NA
